@@ -1,0 +1,4 @@
+/home/huo/Documents/mapping/build/src/CMakeFiles/ColorOcTree.dir
+/home/huo/Documents/mapping/build/src/CMakeFiles/OcTree.dir
+/home/huo/Documents/mapping/build/src/CMakeFiles/Pcd2Tree.dir
+/home/huo/Documents/mapping/build/src/CMakeFiles/PointCloud.dir
